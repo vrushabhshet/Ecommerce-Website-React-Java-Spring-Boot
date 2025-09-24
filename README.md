@@ -46,7 +46,7 @@ Modern, full-stack Ecommerce platform for food and furniture, built with React.j
 
 ### Landing Page & Brands
 <p align="center">
-  <img src="./frontend/public/images/attachments/14.png" alt="Landing Page" width="700"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/14.png" alt="Landing Page" width="700"/>
 </p>
 
 ### Homepage Carousel
@@ -198,21 +198,21 @@ This project is licensed under the MIT License. See the [LICENSE](./ecommerce-sp
 ---
 
 <p align="center">
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/1.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/2.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/3.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/4.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/5.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/6.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/7.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/8.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/9.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/10.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/11.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/12.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/13.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/14.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/15.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/16.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/17.png" width="400"/>
+  <img src="./frontend/public/images/attachments/1.png" width="400"/>
+  <img src="./frontend/public/images/attachments/2.png" width="400"/>
+  <img src="./frontend/public/images/attachments/3.png" width="400"/>
+  <img src="./frontend/public/images/attachments/4.png" width="400"/>
+  <img src="./frontend/public/images/attachments/5.png" width="400"/>
+  <img src="./frontend/public/images/attachments/6.png" width="400"/>
+  <img src="./frontend/public/images/attachments/7.png" width="400"/>
+  <img src="./frontend/public/images/attachments/8.png" width="400"/>
+  <img src="./frontend/public/images/attachments/9.png" width="400"/>
+  <img src="./frontend/public/images/attachments/10.png" width="400"/>
+  <img src="./frontend/public/images/attachments/11.png" width="400"/>
+  <img src="./frontend/public/images/attachments/12.png" width="400"/>
+  <img src="./frontend/public/images/attachments/13.png" width="400"/>
+  <img src="./frontend/public/images/attachments/14.png" width="400"/>
+  <img src="./frontend/public/images/attachments/15.png" width="400"/>
+  <img src="./frontend/public/images/attachments/16.png" width="400"/>
+  <img src="./frontend/public/images/attachments/17.png" width="400"/>
 </p>
