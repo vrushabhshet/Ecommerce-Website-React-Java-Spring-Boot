@@ -198,8 +198,8 @@ This project is licensed under the MIT License. See the [LICENSE](./ecommerce-sp
 ---
 
 <p align="center">
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.11.18 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.11.36 AM.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/1.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/2.png" width="400"/>
   <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.00 AM.png" width="400"/>
   <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.06 AM.png" width="400"/>
   <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.49 AM.png" width="400"/>
