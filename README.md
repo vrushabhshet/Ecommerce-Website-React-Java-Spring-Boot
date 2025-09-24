@@ -46,7 +46,7 @@ Modern, full-stack Ecommerce platform for food and furniture, built with React.j
 
 ### Landing Page & Brands
 <p align="center">
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/14.png" alt="Landing Page" width="700"/>
+  <img src="./frontend/public/images/attachments/14.png" alt="Landing Page" width="700"/>
 </p>
 
 ### Homepage Carousel
