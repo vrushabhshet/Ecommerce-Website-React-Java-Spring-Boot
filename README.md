@@ -156,10 +156,10 @@ Modern, full-stack Ecommerce platform for food and furniture, built with React.j
 - MySQL
 
 ### Backend Setup
-```bash
-cd ecommerce-spring-reactjs
-./mvnw spring-boot:run
-```
+1. Create a database in PostgreSQL with the name **`store`**.
+2. Open `pom.xml` and run **Maven Clean** followed by **Maven Install**.
+3. Navigate to the `EcommerceApplication` class in the backend code and run it as a **Java application**.
+
 
 ### Frontend Setup
 ```bash
