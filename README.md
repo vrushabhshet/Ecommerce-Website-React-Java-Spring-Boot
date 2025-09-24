@@ -200,19 +200,19 @@ This project is licensed under the MIT License. See the [LICENSE](./ecommerce-sp
 <p align="center">
   <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/1.png" width="400"/>
   <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/2.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.00 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.06 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.12.49 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.13.00 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.20.32 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.22.05 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.22.11 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.22.16 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.25.41 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.25.49 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.25.57 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.26.06 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.26.58 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.27.03 AM.png" width="400"/>
-  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/Screenshot 2025-09-24 at 12.27.11 AM.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/3.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/4.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/5.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/6.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/7.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/8.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/9.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/10.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/11.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/12.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/13.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/14.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/15.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/16.png" width="400"/>
+  <img src="./ecommerce-spring-reactjs/frontend/public/images/attachments/17.png" width="400"/>
 </p>
